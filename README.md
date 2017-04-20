@@ -31,7 +31,6 @@
 
 ![img](http://imgur.com/Y8WM4qg.png)
 
-![img ](http://imgur.com/Y8WM4qg)
 # 觀眾提問
 - 如何將 PHP + MySQL 上原有的服務直接轉移到 serverless 架構?
   - 產品若已上線，這麼做的風險太大

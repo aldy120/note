@@ -9,7 +9,7 @@
 - 關於伺服器方面，就交給Amazon維護，達到專業分工。
 - 用多少資源付多少錢，也不用因為閒置資源而煩惱。
 
-[img ][http://i.imgur.com/z2DKU3e.gif]
+![img ](http://i.imgur.com/z2DKU3e.gif)
 
 # Lambda
 - 把伺服器藏起來，讓使用者不用花心思設定調整

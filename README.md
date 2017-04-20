@@ -30,7 +30,7 @@
 - 具可延展性，可隨時擴充資料庫大小
 - 免擔心資料庫硬體細節
 
-![img ](http://imgur.com/a/95kb0)
+![img ](http://imgur.com/Y8WM4qg)
 # 觀眾提問
 - 如何將 PHP + MySQL 上原有的服務直接轉移到 serverless 架構?
   - 產品若已上線，這麼做的風險太大

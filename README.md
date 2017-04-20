@@ -29,7 +29,7 @@
 - 具可延展性，可隨時擴充資料庫大小
 - 免擔心資料庫硬體細節
 
-![img](http://imgur.com/Y8WM4qg)
+![img](http://imgur.com/Y8WM4qg.png)
 
 ![img ](http://imgur.com/Y8WM4qg)
 # 觀眾提問
